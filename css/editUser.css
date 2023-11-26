@@ -1,0 +1,54 @@
+.Class{
+    width: 400px;
+    height: 400px;
+    background: rgb(175, 236, 205);
+    display: grid;
+    place-items: center;
+    border-radius: 10px;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+.name{
+    
+    width: 300px;
+    height: 20px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin-left: 15px ;
+}
+.description{
+    width: 300px;
+    height: 35px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin-left: 15px ;
+} 
+.status{
+    display: grid;
+    width: 250px;
+    height: 23px;
+    border-radius: 10px;
+}
+.statusClass{
+    position: relative;
+    right: 14%;
+    bottom: 12%;
+}
+.photoClass{
+    position: relative;
+    right: 12%;
+   
+}
+.btn{
+    width: 350px;
+    height: 35px;
+    border-radius: 10px;
+    font-size: 110%;
+    color: rgb(255, 255, 255);
+    background: rgb(88, 88, 255);
+}
+.btn-back{
+   color: black;
+    font-size: 130%;
+
+}

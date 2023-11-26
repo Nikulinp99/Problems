@@ -1,0 +1,54 @@
+.reg-window{
+    width: 600px;
+    height: 550px;
+    background: rgb(175, 236, 205);
+    display: grid;
+    place-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin: auto;
+    
+ 
+}
+.reg-input{
+    display: grid;  
+    font-size: 20px;
+    margin-bottom: 150px ;
+}
+.fio, .log, .email, .pass, .accpass{
+    width: 300px;
+    height: 23px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin-left: 15px ;
+}
+.btn-reg{
+    width: 350px;
+    height: 35px;
+    border-radius: 10px;
+    margin-top: 20%;
+    font-size: 110%;
+    color: rgb(255, 255, 255);
+    background: rgb(88, 88, 255);
+}
+.btn-back{
+    margin-top: 5%;
+    outline: none; 
+    border: 0;
+    background: transparent;
+    font-size: 100%;
+
+}
+.checkbox{
+    position: relative;
+    bottom: 285px;
+    font-size: 100%;
+    
+   
+}
+.btn-category{
+    width: 400px;
+}
+
+
+
